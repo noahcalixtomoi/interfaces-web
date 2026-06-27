@@ -1,4 +1,4 @@
-# 🌐 Desenvolvedor(a) Front-End | Criando Experiências Web Incríveis
+# 🌐 Desenvolvedor Front-End | Criando Experiências Web Incríveis
 
 Olá! Seja muito bem-vindo(a) ao meu perfil do GitHub. 👋
 
