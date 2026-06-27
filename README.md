@@ -30,7 +30,7 @@ No desenvolvimento de interfaces web, eu costumo trabalhar com:
 
 Confira alguns dos meus principais projetos focados em Web UI:
 
-1.  **[Interfaces Web - Abril Laranja]((https://github.com/noahcalixtomoi/interfaces-web):** Uma aplicação web focada em [descrever brevemente o projeto, ex: e-commerce, dashboard] utilizando React e Tailwind.
+1.  **[Interfaces Web - Abril Laranja](https://github.com/noahcalixtomoi/interfaces-web):** Uma aplicação web focada em [descrever brevemente o projeto, ex: e-commerce, dashboard] utilizando React e Tailwind.
 2.  **[Guia de Profissões](https://github.com/noahcalixtomoi/interfaces-web/tree/main/html/2-bim-siteprofissoes):** Landing page responsiva com animações fluidas em JavaScript puro.
 
 ---
